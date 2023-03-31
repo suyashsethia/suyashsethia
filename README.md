@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Suyash!]
+<h1 align="center">Hello World! 👋, I'm Suyash</h1>
 <br/>
 
 
@@ -15,7 +15,7 @@
 
 <br />
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Suyash Sethia🙌, a Web Developer, Programmer and NLP Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
