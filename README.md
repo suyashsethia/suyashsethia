@@ -23,7 +23,7 @@ Hi,I'm Suyash Sethia🙌, a Web Developer, Programmer and NLP Enthusiast. Apart 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m a sophomore at IIIT hyderabd
+- 🔭 I’m a Pre-Final year at IIIT hyderabd
 - 🌱 I’m currently learning NLP.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
